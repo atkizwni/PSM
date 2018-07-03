@@ -1,0 +1,16 @@
+itemno,itemdesc,itemquantity,rfq_no,codevoteid
+N001,Paper A4,100,R004,V002
+N002,Pensel 2b,300,R004,V002
+N003,Mesin Fotostat,2,R001,V005
+N004,Mesin Cetak,3,R001,V005
+N005,Pembesar suara,1,R003,V004
+N006,Monitor,60,R002,V009
+N007,CPU,60,R002,V009
+N008,Kerusi,100,R005,V008
+N009,Meja ,100,R005,V008
+N010,WHiteboard,5,R005,V008
+N011,Marker Whiteboard,2000,R006,V002
+N012,"Pen (Black, Blue)",2000,R006,V002
+N013,Fail Paper A4 ,200,R006,V002
+N014,Cable LAN,230,R007,V008
+N015,Liquid Paper,100,R004,V002
